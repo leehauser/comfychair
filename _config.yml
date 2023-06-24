@@ -27,6 +27,7 @@ url: "https://www.leehauser.com" # the base hostname & protocol for your site, e
 # twitter_username: jekyllrb
 # github_username:  lee@leehauser.com
 # Can we put a Mastodon userID in here?
+# Another change to hopefully trigger a rebuild
 
 # Build settings
 theme: minima
