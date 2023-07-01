@@ -4,12 +4,11 @@ title:  "Spiritual Space"
 date:   2023-07-01 08:46:49 -0700
 ---
 
-![*This is not how Lewis imagined Venus*](assets/PIA00158~small.jpg)
+![venus](/assets/images/PIA00158~small.jpg)
 
-*Credit: NASA/JPL/USGS*
+*This is not how Lewis imagined Venus  Credit: NASA/JPL/USGS*
 
-
-I came intomy re-read of C. S. Lewis's Space Trilogy (*Out Of The Silent Planet*, *Perelandra*, *That Hideous Strength*) with some trepidation. My world view has changed since I last read it 20 or more years ago. I remembered little of the first book, dreaded the second, and anticipated the third.
+I came into my re-read of C. S. Lewis's Space Trilogy (*Out Of The Silent Planet*, *Perelandra*, *That Hideous Strength*) with some trepidation. My world view has changed since I last read it 20 or more years ago. I remembered little of the first book, dreaded the second, and anticipated the third.
 
 Lewis wrote the books, starting in the 1930s, after he and J. R. R. Tolkien agreed to write some science fiction stories. Lewis agreed to write one or more space stories; Tolkien was to write a time-travel story, which he never did. 
 
@@ -25,9 +24,9 @@ It also celebrates the centrality of humanity in the creator's design. Malacandr
 
 In our world, the blame for original sin, disobedience, rests on Eve. In *Perelandra,* (the planet we call Venus) the Lady doesn't give in to temptation; there is no original sin, and Perelandra isn't cut off from the rest of the universe like the earth was. I'm not familiar enough with Lewis’s non-fiction how he regards women in general, but many of his fictional protagonists are female. His girls and women have agency, make decisions, and suffer (or celebrate) consequences. If some of the misogyny in Western culture stems from how we’ve been conditioned to view the Eve of Genesis, perhaps this is Lewis elevating the spiritual view of women to be equal to that of men.
 
-![*This is slightly closer to how Lewis imagined Venus, especially at the climax of "That Hideous Strength"*](assets/320px-MG-Paris-Aphrodite_of_Milos.jpg)
+![venus-di-milo](assets/images/320px-MG-Paris-Aphrodite_of_Milos.jpg)
 
-*By Mattgirling - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=16229901*
+*This is slightly closer to how Lewis imagined Venus, especially at the climax of "That Hideous Strength"*  *Photo By Mattgirling - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=16229901*
 
 *That Hideous Strength* is my favorite among the books. It has a sure place among the great works of dystopian fiction. It’s the most terrifying of the trilogy because its protagonists are ordinary people living in an everyday setting, and the aims of the antagonists — or more properly, their agents — seem so plausible in our post-Holocaust, post-Cold War, post-pandemic world. I have to remind myself it was written during World War II, when only the Germans knew what they were doing to the Jews and before modern science showed its horrible side. That it all comes down to demonic possession and divine intervention is disappointing (George Orwell thought so), but is consistent with Lewis's worldview.
 
