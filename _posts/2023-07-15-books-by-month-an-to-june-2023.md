@@ -7,7 +7,7 @@ trello_board_card_id: 64986bd8ee488abdbe59f152;64987881030cc6945326ac84
 trello_plugin_note_id: 5wVtqF4OyfFvjIcjh1Jjr
 ---
 
-![comfychair](/assets/images/annie-spratt-7Uufa4DeTyc-unsplash.jpg)
+![comfychair-med](/assets/images/annie-spratt-comfychair-med.jpg)
 
 *Image by Annie Spratt from [Unsplash](https://unsplash.com/)*
 
