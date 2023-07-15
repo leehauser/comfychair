@@ -2,9 +2,7 @@
 layout: post
 title:  "2023 First Half Reading List"
 date:   2023-07-15 08:46:49 -0700
----
 
----
 trello_board_card_id: 64986bd8ee488abdbe59f152;64987881030cc6945326ac84
 trello_plugin_note_id: 5wVtqF4OyfFvjIcjh1Jjr
 ---
