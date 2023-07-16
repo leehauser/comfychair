@@ -11,3 +11,5 @@ Now, in the middle of 2023, I think it's time to start talking about the books
 I read. Since I read so many, and re-read many as well, I hope make these less
 reviews and more discussions of how a particular book (or series of books) fit
 in with other books I've read, and my view of the world. 
+
+Testing build status: 7/16/23 11:20AM
