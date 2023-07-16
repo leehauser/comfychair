@@ -1,0 +1,216 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"neo",
+				"NeoVintageous: Open RC File"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/leehauser/allmygits/comfychair"
+	],
+	"file_history":
+	[
+		"/Users/leehauser/allmygits/comfychair/_config.yml",
+		"/Users/leehauser/Documents/Documents - Aria/Writing/Collection/The_Empath/Grace&Aida/PDD_Research/OldPDD/theology.txt",
+		"/Users/leehauser/Documents/Documents - Aria/Writing/Collection/The_Empath/Grace&Aida/PDD_Research/OldPDD/shortstory.txt",
+		"/Users/leehauser/obsidian/Lee/novels/A_Certain_Grace/grace1.md",
+		"/Users/leehauser/allmygits/Empaths/grace/GraceDraft1notes.txt",
+		"/Users/leehauser/allmygits/constance/Saint_Constance/constance_6/constance_6/week1.md",
+		"/Users/leehauser/dotfiles/5th-oldest-vimrc.txt",
+		"/Users/leehauser/dotfiles/4th-oldest-vimrc.txt",
+		"/Users/leehauser/dotfiles/3rd-oldest-vmrc.txt",
+		"/Users/leehauser/dotfiles/2nd-oldest-vimrc.txt",
+		"/Users/leehauser/dotfiles/vimrc-7-3-2020.txt",
+		"/Volumes/2TB-2/Documents/Writing/Grace-Aida/PDD_Research/Misc/outline.txt",
+		"/Volumes/2TB-2/Documents/Writing/Grace-Aida/PDD_Research/Misc/shortstory.txt",
+		"/Volumes/2TB-2/Documents/Writing/Grace-Aida/PDD_Research/Misc/rescuescene.txt",
+		"/Volumes/2TB-2/Documents/Writing/Grace-Aida/PDD_Research/Misc/babydoll.txt",
+		"/Users/leehauser/Library/Application Support/Sublime Text/Packages/User/.neovintageousrc",
+		"/Users/leehauser/vimfiles.old/vimrc.ios",
+		"/Users/leehauser/vimfiles.old/vimrc.plugins",
+		"/Users/leehauser/vimfiles.old/oldvimrc",
+		"/Users/leehauser/vimfiles.old/vimrc",
+		"/Users/leehauser/vimfiles.old/vimrc.old",
+		"/Users/leehauser/vimfiles.old/vimrc-july42023",
+		"/Users/leehauser/.vimrc",
+		"/Users/leehauser/vimfiles.old/newvimrc",
+		"/Users/leehauser/allmygits/comfychair-test/about.markdown",
+		"/Users/leehauser/allmygits/comfychair-test/_posts/2023-05-27-house-of-thorns.md",
+		"/Users/leehauser/allmygits/comfychair-test/_config.yml",
+		"/Users/leehauser/allmygits/bookblog/_posts/2023-05-27-house-of-thorns.md",
+		"/Users/leehauser/obsidian/Books/Novels/A_Certain_Grace.md",
+		"/Users/leehauser/obsidian/Books/Novels/A_Certain_Grace_d4.md",
+		"/Users/leehauser/obsidian/Books/Novels/A_Certain_Grace_d4-nowrap.md",
+		"/Users/leehauser/obsidian/Books/Novels/pdd(bathroom_ending).md",
+		"/Users/leehauser/obsidian/Books/Novels/Pas_De_Deux.md",
+		"/Users/leehauser/allmygits/callie/Lucy.md"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "comfychair.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
